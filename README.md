@@ -7,7 +7,7 @@ You would have to check out [Twitter Apps](https://apps.twitter.com/) to be able
 # Clone this repository
 $ git clone https://github.com/Lithium95/Twitter-Searcher
 # Go into the repository
-$ cd Twitter-Console-Search
+$ cd Twitter-Searcher
 # Install Twython
 $ pip install twython
 
